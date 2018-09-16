@@ -7537,6 +7537,18 @@ let BattleFormatsData = {
 		isNonstandard: true,
 		tier: "CAP LC",
 	},
+	cap25g: {
+		isNonstandard: true,
+		tier: "CAP",
+	},
+	cap25f: {
+		isNonstandard: true,
+		tier: "CAP",
+	},
+	cap25w: {
+		isNonstandard: true,
+		tier: "CAP",
+	},
 	pokestarufo: {
 		isNonstandard: true,
 		eventPokemon: [

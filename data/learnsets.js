@@ -64591,6 +64591,15 @@ let BattleLearnsets = {
 		wish: ["7L22"],
 		worryseed: ["7T"],
 	}},
+	cap25g: {learnset: {
+			sketch: ["7L0"],
+		}},
+	cap25f: {learnset: {
+			sketch: ["7L0"],
+		}},
+	cap25w: {learnset: {
+			sketch: ["7L0"],
+		}},
 };
 
 exports.BattleLearnsets = BattleLearnsets;
