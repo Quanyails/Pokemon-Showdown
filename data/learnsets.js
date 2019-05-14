@@ -62616,6 +62616,10 @@ let BattleLearnsets = {
 		wonderroom: ["7T"],
 		workup: ["7M"],
 	}},
+	cap26: {
+		learnset: {
+			sketch: ["7L0"],
+		}},
 	syclant: {learnset: {
 		absorb: ["7L1"],
 		attract: ["7M", "4M"],

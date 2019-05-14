@@ -8411,6 +8411,10 @@ let BattleFormatsData = {
 		],
 		tier: "CAP",
 	},
+	cap26: {
+		isNonstandard: "CAP",
+		tier: "CAP",
+	},
 	syclant: {
 		randomBattleMoves: ["bugbuzz", "icebeam", "blizzard", "earthpower", "spikes", "superpower", "tailglow", "uturn", "focusblast"],
 		isNonstandard: "CAP",

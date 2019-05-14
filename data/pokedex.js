@@ -13771,6 +13771,18 @@ let BattlePokedex = {
 		color: "Blue",
 		eggGroups: ["Water 1", "Fairy"],
 	},
+	cap26: {
+		num: -28,
+		species: "CAP 26",
+		types: ["Steel", "Ground"],
+		genderRatio: {M: 0.5, F: 0.5},
+		baseStats: {hp: 102, atk: 50, def: 96, spa: 133, spd: 118, spe: 60},
+		abilities: {0: "Levitate", 1: "Bulletproof"},
+		heightm: 1,
+		weightkg: 50,
+		color: "Gray",
+		eggGroups: ["Undiscovered"],
+	},
 	syclar: {
 		num: -101,
 		species: "Syclar",
