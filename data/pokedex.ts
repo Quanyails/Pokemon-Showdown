@@ -16549,6 +16549,18 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Dragon", "Fairy"],
 		gen: 8,
 	},
+	cap28: {
+		num: -58,
+		species: "CAP 28",
+		types: ["Bug", "Dragon"],
+		genderRatio: {M: 0.5, F: 0.5},
+		baseStats: {hp: 5, atk: 5, def: 5, spa: 5, spd: 5, spe: 5},
+		abilities: {0: "Neutralizing Gas"},
+		heightm: 1,
+		weightkg: 50,
+		color: "Gray",
+		eggGroups: ["Undiscovered"],
+	},
 	// NOTE: PokeStar "formes" are not actually formes and thus do not have a formeOrder
 	pokestarsmeargle: {
 		num: -5000,

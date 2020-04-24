@@ -77284,6 +77284,11 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			yawn: ["8E"],
 		},
 	},
+	cap28: {
+		learnset: {
+			sketch: ["8L1", "7L1", "6L1", "5L1", "4L1", "3L1"],
+		},
+	},
 	syclant: {
 		learnset: {
 			absorb: ["8L1", "7L1"],
