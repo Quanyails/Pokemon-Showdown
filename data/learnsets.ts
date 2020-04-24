@@ -75613,6 +75613,11 @@ export const BattleLearnsets: {[speciesid: string]: LearnsetData} = {
 			workup: ["8M", "7M"],
 		},
 	},
+	cap27: {
+		learnset: {
+			sketch: ["8L1", "7L1", "6L1", "5L1", "4L1", "3L1"],
+		},
+	},
 	syclant: {
 		learnset: {
 			absorb: ["8L1", "7L1"],

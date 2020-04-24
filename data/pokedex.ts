@@ -16038,6 +16038,18 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Mineral"],
 		gen: 7,
 	},
+	cap27: {
+		num: -55,
+		species: "CAP 27",
+		types: ["Fire", "Dragon"],
+		genderRatio: {M: 0.5, F: 0.5},
+		baseStats: {hp: 108, atk: 108, def: 74, spa: 92, spd: 64, spe: 114},
+		abilities: {0: "Regenerator"},
+		heightm: 1,
+		weightkg: 50,
+		color: "Gray",
+		eggGroups: ["Undiscovered"],
+	},
 	pokestarsmeargle: {
 		num: -5000,
 		name: "Pokestar Smeargle",

@@ -5170,6 +5170,10 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		isNonstandard: "CAP",
 		tier: "CAP",
 	},
+	cap27: {
+		isNonstandard: "CAP",
+		tier: "CAP",
+	},
 	pokestarsmeargle: {
 		isNonstandard: "Custom",
 		tier: "Illegal",
