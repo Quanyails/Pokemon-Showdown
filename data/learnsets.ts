@@ -77284,7 +77284,32 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			yawn: ["8E"],
 		},
 	},
-	cap28: {
+	cap28pipotchi: {
+		learnset: {
+			sketch: ["8L1", "7L1", "6L1", "5L1", "4L1", "3L1"],
+		},
+	},
+	cap28jas61292: {
+		learnset: {
+			sketch: ["8L1", "7L1", "6L1", "5L1", "4L1", "3L1"],
+		},
+	},
+	cap28yay61: {
+		learnset: {
+			sketch: ["8L1", "7L1", "6L1", "5L1", "4L1", "3L1"],
+		},
+	},
+	cap28amamama: {
+		learnset: {
+			sketch: ["8L1", "7L1", "6L1", "5L1", "4L1", "3L1"],
+		},
+	},
+	cap28quziel: {
+		learnset: {
+			sketch: ["8L1", "7L1", "6L1", "5L1", "4L1", "3L1"],
+		},
+	},
+	cap28jho: {
 		learnset: {
 			sketch: ["8L1", "7L1", "6L1", "5L1", "4L1", "3L1"],
 		},
