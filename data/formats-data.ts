@@ -6136,27 +6136,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		isNonstandard: "CAP",
 		tier: "CAP",
 	},
-	cap28pipotchi: {
-		isNonstandard: "CAP",
-		tier: "CAP",
-	},
-	cap28jas61292: {
-		isNonstandard: "CAP",
-		tier: "CAP",
-	},
-	cap28yay61: {
-		isNonstandard: "CAP",
-		tier: "CAP",
-	},
-	cap28amamama: {
-		isNonstandard: "CAP",
-		tier: "CAP",
-	},
-	cap28quziel: {
-		isNonstandard: "CAP",
-		tier: "CAP",
-	},
-	cap28jho: {
+	cap28: {
 		isNonstandard: "CAP",
 		tier: "CAP",
 	},

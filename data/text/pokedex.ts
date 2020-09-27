@@ -3602,22 +3602,7 @@ export const PokedexText = {
 	astrolotl: {
 		name: "Astrolotl",
 	},
-	cap28pipotchi: {
-		name: "CAP 28",
-	},
-	cap28jas61292: {
-		name: "CAP 28",
-	},
-	cap28yay61: {
-		name: "CAP 28",
-	},
-	cap28amamama: {
-		name: "CAP 28",
-	},
-	cap28quziel: {
-		name: "CAP 28",
-	},
-	cap28jho: {
+	cap28: {
 		name: "CAP 28",
 	},
 	pokestarsmeargle: {
